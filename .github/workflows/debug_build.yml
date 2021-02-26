@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - android-10
+      - test
   pull_request:
     branches:
       - master
